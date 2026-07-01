@@ -1,0 +1,25 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+build/
+.vscode/
+
+# KiCad
+*-backups/
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+fp-info-cache
+*.lck
+*.000
+*.001
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Misc
+*.zip
+*.log
